@@ -14,3 +14,14 @@ c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Deb
 c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Tasks.pdb
 c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\obj\Debug\Capsule.dll
 c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\obj\Debug\Capsule.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Capsule.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Capsule.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\EAGetMail40.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.aspnet.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.Data.Linq.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.Net.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.Reflection.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.Tasks.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.csprojResolveAssemblyReference.cache
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.pdb
