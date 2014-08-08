@@ -1,0 +1,16 @@
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\obj\Debug\Capsule.csprojResolveAssemblyReference.cache
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Capsule.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Capsule.pdb
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.aspnet.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Data.Linq.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Net.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Reflection.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Tasks.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\EAGetMail40.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.aspnet.pdb
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Data.Linq.pdb
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Net.pdb
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Reflection.pdb
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\bin\Debug\Ion.Tasks.pdb
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\obj\Debug\Capsule.dll
+c:\users\sirjosh33\documents\visual studio 2013\Projects\Capsule\Capsule\obj\Debug\Capsule.pdb
