@@ -35,6 +35,38 @@ namespace Capsule.Data.Tables
         public int ContactTypeID { get; set; }
         [Column]
         public string Email { get; set; }
+        [Column]
+        public string Username { get; set; }
+        [Column]
+        public string Password { get; set; }
+        [Column]
+        public int LoginAttempts { get; set; }
+        [Column]
+        public bool ForcePasswordChange { get; set; }
+        [Column]
+        public bool IsLocked { get; set; }
+        [Column]
+        public string DisplayName { get; set; }
+        [Column]
+        public string Street { get; set; }
+        [Column]
+        public string City { get; set; }
+        [Column]
+        public string State { get; set; }
+        [Column]
+        public string Zip { get; set; }
+        [Column]
+        public string Phone1 { get; set; }
+        [Column]
+        public string Phone2 { get; set; }
+        [Column]
+        public int UserRoleTypeID { get; set; }
+        [Column]
+        public string SecurityQuestion { get; set; }
+        [Column]
+        public string SecurityAnswer { get; set; }
+        [Column]
+        public DateTime LastAuthenticationDate { get; set; }
 
     }
 }
