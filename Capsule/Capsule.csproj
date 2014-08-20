@@ -33,8 +33,9 @@
     <Reference Include="Ion.aspnet">
       <HintPath>..\..\..\..\GitHub\Ion\Ion\Ion.aspnet\bin\Release\Ion.aspnet.dll</HintPath>
     </Reference>
-    <Reference Include="Ion.Data.Linq">
-      <HintPath>..\..\..\..\GitHub\Ion\Ion\Ion.Data.Linq\bin\Release\Ion.Data.Linq.dll</HintPath>
+    <Reference Include="Ion.Data.Linq, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Ion\Ion\Ion.Data.Linq\bin\Release\Ion.Data.Linq.dll</HintPath>
     </Reference>
     <Reference Include="Ion.Net">
       <HintPath>..\..\..\..\GitHub\Ion\Ion\Ion.Net\bin\Release\Ion.Net.dll</HintPath>

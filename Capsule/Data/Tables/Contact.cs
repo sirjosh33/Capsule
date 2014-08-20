@@ -23,6 +23,7 @@ namespace Capsule.Data.Tables
             IsLocked = false;
             LockedByUserID = 0;
               */
+			LastAuthenticationDate = Convert.ToDateTime("1/1/1900");
         }
 
         [Column(IsPrimaryKey = true, DbType = "Bigint NOT NULL IDENTITY", AutoSync = AutoSync.OnInsert, IsDbGenerated = true)]
@@ -51,6 +52,7 @@ namespace Capsule.Data.Tables
         public string Street { get; set; }
         [Column]
         public string City { get; set; }
+		[MaxLength(Length = 2,ShouldTruncate=true)]
         [Column]
         public string State { get; set; }
         [Column]
@@ -67,6 +69,5 @@ namespace Capsule.Data.Tables
         public string SecurityAnswer { get; set; }
         [Column]
         public DateTime LastAuthenticationDate { get; set; }
-
     }
 }
