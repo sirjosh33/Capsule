@@ -42,11 +42,11 @@ namespace Capsule.Data
 			base.DeleteOnSave<TEntity, long>(entity);
 		}
 
-		public virtual void SaveChanges<TEntity>(TEntity entity)
-			where TEntity : DbTableEquatable<IDbTableEquatable<long>>
-		{
-			base.SaveChanges<TEntity, long>(entity);
-		}
+        public virtual void SaveChanges<TEntity>(TEntity entity)
+            where TEntity : DbTableEquatable<IDbTableEquatable<long>>
+        {
+            base.SaveChanges<TEntity, long>(entity);
+        }
 
 		protected override void _preprocessSave<TEntity, TPKType>(TEntity entity)
 		{

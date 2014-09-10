@@ -9,7 +9,7 @@ using SkyGroundLabs.Data.Entity.Mapping;
 namespace Capsule.Data.Tables
 {
     [Table("Contacts")]
-    public class Contact : DbTableEquatable<IDbTableEquatable<long>>, IDbTableEquatable<long>
+    public class Contact : DbTableEquatable<IDbTableEquatable<long>>
     {
 
         public Contact()
