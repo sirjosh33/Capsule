@@ -1,19 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Linq;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Capsule.Data.Tables;
-using Ion.Data.Linq;
-using Ion.Data.Linq.Mapping;
+using SkyGroundLabs.Data.Entity;
+using SkyGroundLabs.Data.Entity.Mapping;
 
 namespace Capsule.Data
 {
-	public class DataContext : DbContext
+	public class DbContext : DataContext
 	{
 		#region Constructor
-		public DataContext(string server, string database, string userID, string password)
+		public DbContext(string server, string database, string userID, string password)
 			: base(server, database, userID, password)
 		{
 			_initialize();
