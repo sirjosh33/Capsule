@@ -24,6 +24,15 @@ C:\Users\sirjosh33\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.Data.Linq.pdb
 C:\Users\sirjosh33\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.csprojResolveAssemblyReference.cache
 C:\Users\sirjosh33\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.dll
 C:\Users\sirjosh33\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.pdb
-C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.Data.Linq.dll
-C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Ion.Data.Linq.pdb
 C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.csprojResolveAssemblyReference.cache
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\Capsule.dll.config
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\EntityFramework.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Cryptography.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Data.Entity.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Reflection.dll
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\EntityFramework.xml
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Cryptography.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Data.Entity.pdb
+C:\Users\Jimmer\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Reflection.pdb

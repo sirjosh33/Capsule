@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,7 +19,7 @@ namespace Capsule.Data
 			_initialize();
 		}
 
-		public DataContext(string connectionString)
+		public DbContext(string connectionString)
 			: base(connectionString)
 		{
 			_initialize();
@@ -26,12 +27,12 @@ namespace Capsule.Data
 
 		private void _initialize()
 		{
-			Contacts = GetTable<Contact>();
+			
 		}
 		#endregion
 
 		#region Properties
-		public Table<Contact> Contacts { get; set; }
+		public IDbSet<Contact> Contacts { get; set; }
 		#endregion
 
 		#region Methods
@@ -47,24 +48,9 @@ namespace Capsule.Data
 			base.SaveChanges<TEntity, long>(entity);
 		}
 
-		public Table<TEntity> GetTable<TEntity>()
-			where TEntity : DbTableEquatable<IDbTableEquatable<long>>
-		{
-			return base.GetTable<TEntity, long>();
-		}
-
 		protected override void _preprocessSave<TEntity, TPKType>(TEntity entity)
 		{
 
-		}
-		#endregion
-
-		#region Disposable Methods
-		public void Dispose()
-		{
-			Contacts = null;
-
-			base.Dispose();
 		}
 		#endregion
     }
