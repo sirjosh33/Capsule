@@ -10,16 +10,16 @@ using SkyGroundLabs.Data.Entity.Mapping;
 
 namespace Capsule.Data
 {
-	public class DbContext : DataContext
+	public class DbContextJosh : DataContext
 	{
 		#region Constructor
-		public DbContext(string server, string database, string userID, string password)
+		public DbContextJosh(string server, string database, string userID, string password)
 			: base(server, database, userID, password)
 		{
 			_initialize();
 		}
 
-		public DbContext(string connectionString)
+		public DbContextJosh(string connectionString)
 			: base(connectionString)
 		{
 			_initialize();
@@ -53,5 +53,13 @@ namespace Capsule.Data
 
 		}
 		#endregion
+    }
+
+    public class test 
+    {
+       public void Method1()
+       {
+
+       }
     }
 }

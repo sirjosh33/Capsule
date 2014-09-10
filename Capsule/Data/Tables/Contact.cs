@@ -23,6 +23,7 @@ namespace Capsule.Data.Tables
             LockedByUserID = 0;
             */
 			LastAuthenticationDate = Convert.ToDateTime("1/1/1900");
+            
         }
 
         public long ID { get; set; }
