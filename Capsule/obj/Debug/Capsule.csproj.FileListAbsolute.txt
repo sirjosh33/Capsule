@@ -75,3 +75,4 @@ C:\Users\Dan\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Data.Entit
 C:\Users\Dan\Documents\GitHub\Capsule\Capsule\bin\Debug\SkyGroundLabs.Reflection.pdb
 C:\Users\Dan\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.dll
 C:\Users\Dan\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.pdb
+C:\Users\Dan\Documents\GitHub\Capsule\Capsule\obj\Debug\Capsule.csprojResolveAssemblyReference.cache

@@ -55,11 +55,11 @@ namespace Capsule.Data
 		#endregion
     }
 
-    public class test 
+    public class AuthenticateFunctions
     {
-       public void Method1()
-       {
+        public void Validate(string s, string t, string p)
+        {
 
-       }
+        }
     }
 }
