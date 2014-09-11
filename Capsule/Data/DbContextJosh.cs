@@ -52,14 +52,13 @@ namespace Capsule.Data
 		{
 
 		}
-		#endregion
-    }
-
-    public class AuthenticateFunctions
-    {
-        public void Validate(string s, string t, string p)
+        public enum AuthenticationResult
         {
-
+            AttemptsExceeded,
+            UsernameDoesntExist,
+            PasswordIncorrect,
+            Pass
         }
+		#endregion
     }
 }

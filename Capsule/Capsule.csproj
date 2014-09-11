@@ -58,7 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\DataContextJosh.cs" />
+    <Compile Include="Data\DbContextJosh.cs" />
     <Compile Include="Data\Tables\Contact.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
