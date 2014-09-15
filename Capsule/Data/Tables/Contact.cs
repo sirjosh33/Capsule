@@ -11,7 +11,6 @@ namespace Capsule.Data.Tables
     [Table("Contacts")]
     public class Contact : DbTableEquatable<IDbTableEquatable<long>>
     {
-
         public Contact()
         {
             /*
